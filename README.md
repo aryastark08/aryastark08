@@ -2,7 +2,8 @@
 
 ### I'm Aishwarya
 
-![](https://media.giphy.com/media/QAsHga1AB6dIGUsui6/giphy.gif)
+<img src="drawing" alt="drawing" width="200" height="200"/>
+![drawing](https://media.giphy.com/media/QAsHga1AB6dIGUsui6/giphy.gif)
 <!--
 **aryastark08/aryastark08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
