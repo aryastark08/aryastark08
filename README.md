@@ -5,7 +5,7 @@ Nice to meet ya!
 
 **Some of the Project Repos are available in my [Second Github account](https://github.com/frostiron).**
 
-![Aishwarya's Github Stats](https://github-readme-stats.vercel.app/api?username=aryastark08)
+<!--![Aishwarya's Github Stats](https://github-readme-stats.vercel.app/api?username=aryastark08)
 
 
 <!--
